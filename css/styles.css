@@ -26,5 +26,14 @@ body {
   margin: 35px;
   padding: 20px;
   box-shadow: 5px 10px;
+}
 
+footer {
+  color: white;
+  text-align: right;
+  float: right;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 25px;
 }
